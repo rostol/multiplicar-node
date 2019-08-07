@@ -1,0 +1,17 @@
+{
+  "name": "base-node3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ros",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
